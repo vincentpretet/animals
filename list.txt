@@ -1,3 +1,4 @@
-cats
+cats    2
 dogs
 birds
+crocodiles  1
